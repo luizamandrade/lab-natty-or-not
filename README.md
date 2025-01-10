@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Modelo capa de resvista
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de imagem de modelo negra capa de revista de moda
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT e Leonardo IA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o chat GPT para me ajudar a criar um bom Prompt para o Leonardo IA, e criei a imagem no Leonardo IA.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma modelo negra deslumbrante com manchas de vitiligo pelo corpo, usando um vestido de festa totalmente dourado, brilhante e metálico. O vestido tem decote em V, alças finas, é justo ao corpo e longo, cobrindo completamente os pés. Ela é alta, magra e tem cabelos afro soltos em um estilo natural e volumoso. Sua maquiagem é impecável, destacando sua beleza com um olhar marcante e lábios brilhantes. O fundo é elegante e minimalista, para destacar sua presença sofisticada e o vestido dourado reluzente.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito interessante criar um projeto que pude integrar duas IAs.
 ```
 
 ### Exemplos e Insigths
